@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shahad23abdullah
 - 👀 I’m interested in coding and everything interesting ^_^
 - 🌱 I’m currently learning web, AI, Encryption.
-- 📫 How to reach me? by my email:shahad127.a@gmail.com
+- 📫 How to reach me? by my email: shahad127.a@gmail.com
 - ⚡ Fun fact:   morning lover, but working at night 
 
 <!---
