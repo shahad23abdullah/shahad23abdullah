@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Shahad Abdullah 
+- 👋 Hi, I’m Shahad Abdullah.
 - 👀 I’m interested in coding and everything interesting ^_^
-- 🌱 I’m currently learning web, AI, Encryption.
+- 🌱 I’m currently learning UI/UX.
 - 📫 How to reach me? by my email: shahad127.a@gmail.com
-- ⚡ Fun fact:   morning lover, but working at night 
+- ⚡ Fun fact:   I am a morning lover, working at night. 
 
 <!---
 shahad23abdullah/shahad23abdullah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
